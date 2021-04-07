@@ -1,6 +1,8 @@
 == Chapter V
 
-Her visit to some South and South-east counties; also to London, the Land`'s-end, etc.
+[.chapter-synopsis]
+* Her visit to some South and South-east counties
+* Also to London, the Land`'s-end, etc.
 
 In 1765 I felt an engagement of mind to visit some
 meetings in some Southern and South-east counties,
@@ -25,6 +27,10 @@ who was then very ill but recovered shortly after, and I believe went to America
 
 +++[+++The following letters appear to have been penned about this period:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 London, Sixth month 1st, 1765.
 
 &hellip; And thou my son, whom with the rest of my children I dearly love,
@@ -38,13 +44,17 @@ and thy desires more after communion with God than with men.
 I hope these hints will be observed by thee,
 and as thou lovest and seekest after true retirement,
 thou wilt be favoured with clear instructions:
-therefore to the holy guidance of the pure Spirit of Christ I recommend thee.`"
+therefore to the holy guidance of the pure Spirit of Christ I recommend thee.
 
-[.asterism]
-'''
+--
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband.
 
+[.signed-section-context-open]
 London, Sixth month 14th, 1765.
 
 O that we may be more and more concerned to watch against every
@@ -66,6 +76,8 @@ Let us learn patience and wait for it; and when able, pray for resignation;
 and not marvel at the fiery trials that we may meet with,
 for so it hath been with the righteous of all generations
 from the beginning of the world.
+
+--
 
 We then went to Coggeshall, Colchester, Needham, and to the Yearly Meeting at Norwich.
 We stayed here and in the neighbourhood several weeks, and as in other places,
@@ -134,8 +146,13 @@ although it may seem to be given sharply.
 
 +++[+++From the following letter it appears she was on a visit at Norwich:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To The Same.
 
+[.signed-section-context-open]
 Norwich, Sixth month 3rd, 1770.
 
 As a tribulated path is our lot I would have us learn contentment therein,
@@ -157,6 +174,8 @@ I should be glad to hear of a suitable place for him, but do not know how to adv
 Would he but take my counsel, and choose good and refuse evil,
 then would peace flow in his soul as a river and righteousness as a mighty stream:
 and that this may be the experience of us all, is the travail of my soul.
+
+--
 
 Twelfth month 13th, 1770, I attended our Quarterly Meeting at Leicester;
 thence to Coventry, and to the Quarterly Meeting at Warwick.
@@ -213,6 +232,10 @@ and we got safe home the 1st of seventh month.
 +++[+++In 1772 she was from home,
 of which we have no other account but this letter written at East Markham to her husband:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 East Markham, Sixth month 18th, 1772.
 
 Thou wilt admire at my long stay in and about this
@@ -239,6 +262,8 @@ It seems as if my face will soon be set homeward, but I pray for patience,
 that the latter end of my journey may not lay waste the forepart.
 Having hitherto been preserved in the way of my duty, may it be so to the end,
 and that we may meet with joy, is the prayer of my soul.
+
+--
 
 On the 18th of third month, 1773,
 I left home with the approbation and true unity of my friends,
@@ -301,6 +326,10 @@ our souls were filled with sweet peace, which is the only reward we labour for.
 
 +++[+++From Bradford she wrote to her husband:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Bradford, Sixth month 7th, 1773.
 
 I think I can salute thee in that love that wisheth thy health and salvation,
@@ -327,7 +356,9 @@ and I have also had encouragement from such Friends as I think are able to judge
 I remember my former buffeting, and He who knew, and now knows,
 the integrity of my heart, was, is, and I hope will be, my Helper and thy Helper.
 May thy spirit feel and travail with ours,
-that so when we rejoice thou mayest rejoice also.`"
+that so when we rejoice thou mayest rejoice also.
+
+--
 
 From Falmouth we went to Penzance and lodged at William Prideaux`'s,
 where we stayed till the 28th; thence came to Redruth and lodged at William Phillip`'s,
@@ -487,8 +518,13 @@ and a very satisfactory meeting it was.
 
 +++[+++In this year she was again from home, as appears by the following letter:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Leicester, Twelfth month 16th, 1774.
 
+[.salutation]
 Dear Husband,
 
 I know thou wilt be pleased to hear well of me:--indeed,
@@ -509,3 +545,5 @@ and I believe that Divine good overshadowed the whole;
 and during our thus sitting as in a heavenly place, came in George Boone, who,
 after a time of continued silence, had an acceptable opportunity,
 and the meeting seemed to end well.
+
+--
