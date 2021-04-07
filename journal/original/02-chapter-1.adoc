@@ -1,9 +1,9 @@
 == Chapter I
 
-An account of her early experience,
-including a few journeys after her first appearance in the ministry.
+[.chapter-synopsis]
+* An account of her early experience, including a few journeys after her first appearance in the ministry
 
-A SHORT account of the Lord`'s tender dealings with me,
+A short account of the Lord`'s tender dealings with me,
 and how he visited my poor soul when very young in years:
 
 My dear parents taught me, both by example and precept, to live a sober and godly life.
@@ -116,8 +116,13 @@ now and forevermore!
 
 On this journey she wrote the following letter to her husband, viz:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband.
 
+[.signed-section-context-open]
 Woodbridge, 21st Third month, 1748.
 
 In unfeigned love to thee and my dear and tender children do I now write;
@@ -130,7 +135,9 @@ Yet, blessed be the Lord, he has been pleased so to favour me with his living pr
 and to support me with his divine power,
 that I am made willing to be what he would have me to be; and, my dear husband,
 as I desire for myself, so for thee, that we both be wholly resigned to his will;
-and I believe, whilst we abide in his fear, all things will work together for our good.`"
+and I believe, whilst we abide in his fear, all things will work together for our good.
+
+--
 
 +++[+++In the course of the journey mentioned in the foregoing account,
 it appears that she attended eighty-two meetings,
@@ -147,8 +154,13 @@ they had the company of John Griffith.
 
 The subsequent letters were written after her return home, viz:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Leicester, 27th of Sixth month, 1754.
 
+[.salutation]
 Dear Friend,
 
 I with gladness received thy letter, but in the reading of it,
@@ -176,11 +188,12 @@ Well, my dear friend, I seem to be near a conclusion, and also near thee in spir
 and in a degree of that love which first united us,
 I sincerely salute thee and bid thee farewell.
 
-[.asterism]
-'''
+--
 
+[.signed-section-context-open]
 Donnington, 18th of Ninth month, 1757.
 
+[.salutation]
 Dear Cousin,
 
 Thou hast at times been brought to my mind,

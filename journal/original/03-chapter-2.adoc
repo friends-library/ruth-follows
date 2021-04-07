@@ -1,6 +1,9 @@
 == Chapter II
 
-Her visit to the meetings of Friends Westward--to Bristol--and thence to London.
+[.chapter-synopsis]
+* Her visit to the meetings of Friends Westward
+* To Bristol
+* And thence to London.
 
 On the 28th of second month, 1760, after a long time of deep exercise,
 I parted from my dear children,
@@ -97,8 +100,13 @@ shall have to rejoice together in the communion of the one pure Spirit,
 which is extended to the whole family of God, the world over.
 Amen.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband.
 
+[.signed-section-context-open]
 London, Fourth month, 25th, 1760.
 
 I am still satisfied that I am about my Father`'s business,
@@ -141,7 +149,9 @@ should so prevail as to cause me to do any thing
 that would occasion the honest-minded to be uneasy.
 Oh! the proving seasons I have met with, but which I hope are all for my good;
 and I do expect many in this place, and surely thou with my dear friends,
-will have a concern to pray for me.`"
+will have a concern to pray for me.
+
+--
 
 On 4th of sixth month I left London, and went with our friend John Griffith,
 to his house at Chelmsford; stayed their first-day meeting,
@@ -175,6 +185,10 @@ afterwards I proceeded homeward, and arrived there the 15th of ninth month, 1760
 +++[+++The following letter is a further description of the close
 conflict she endured in being detained at Norwich:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Norwich, Eighth month 18th, 1760.
 
 It seems very hard for me to tell thee that I am yet bound in this place,
@@ -211,7 +225,9 @@ than to see me in that anxiety of soul which disobedience brings.
 Therefore be thou comforted,
 for although thou may with me have been tossed as with a tempest,
 yet our foundation is sure, against which the gates of hell shall never prevail;
-and may we ever remain upon it.`"
+and may we ever remain upon it.
+
+--
 
 30th of seventh month,
 1761--Although I have not set any thing down of my travels for many months,
