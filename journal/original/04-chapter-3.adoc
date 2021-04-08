@@ -1,6 +1,8 @@
 == Chapter III
 
-Her visit to Friends in Ireland, and to the Yearly Meeting in London.
+[.chapter-synopsis]
+* Her visit to Friends in Ireland
+* And to the Yearly Meeting in London.
 
 On the 22nd of eighth month, 1761, I parted with my dear children,
 having some time before acquainted my friends with
@@ -84,11 +86,16 @@ uncle to our worthy friend of the same name, who is an acceptable minister.
 +++[+++Her concern for the spiritual welfare of her dear friends at home continued unabated,
 as appears by the following letter:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Castle Donnington, Fifth month Sd, 1761.
 
-"`Endeared friend, brother and companion in tribulation, for so it seems to me thou art,
+Endeared friend, brother and companion in tribulation, for so it seems to me thou art,
 for which I have been thankful.
 What strength hath it given me when I found that I was at times
 brought into thy remembrance with other of my dear friends,
@@ -102,7 +109,9 @@ under all which for some time it seemed hard for me to submit.
 Oh, this preparation! this time of purging!
 Who indeed can abide the day of his coming, or who can stand when he appeareth,
 who is as a refiner`'s fire?--but so it must be with the sons of Zion,
-that they may offer unto the Lord an offering in righteousness.`"
+that they may offer unto the Lord an offering in righteousness.
+
+--
 
 We came to Dublin on the 28th, to our old worthy friend Samuel Judd`'s:
 at this time many Friends were here from divers parts of the nation,
@@ -209,8 +218,13 @@ at times behold his glory.
 +++[+++The following letter written from Edenderry,
 expresses her concern for her beloved family:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Edenderry, Tenth month 24th, 1761.
 
+[.salutation]
 My dear husband,
 
 By these thou mayest know that we enjoy health and peace, two great blessings:
@@ -243,6 +257,8 @@ And I desire that those who are left behind,
 who have known and do still talk of the goodness of God, may not play the coward,
 but when under right influence be sure to do their duty, and not start aside:
 for behold the ways of Zion mourn, because so few come to her solemn feasts.
+
+--
 
 We next attended the Monthly Meeting at Edenderry,
 whore the Truth was declared.--We dined with our worthy friend Thomas Bewley;
@@ -280,8 +296,13 @@ the next day got to James Pim`'s, and they were I believe, very glad to see us.
 We attended their meeting at Mountrath on fifth-day to satisfaction,
 and I was made thankful that I had given up to attend these meetings.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband.
 
+[.signed-section-context-open]
 Portarlington, Second month 6th, 1762.
 
 My last, written in Dublin a week since, I hope thou hast received:
@@ -325,6 +346,8 @@ I now feel my spirit near thee,
 and also near to my beloved children.--In the pure and undefiled
 love of the Gospel I once more salute you all,
 and bid you farewell.
+
+--
 
 On first-day we attended the Monthly Meeting at Mountmellick,
 which was large and a time of hard labour to those who had a right sense of feeling;

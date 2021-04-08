@@ -1,6 +1,7 @@
 == Chapter IV
 
-Her visit to the meetings of Friends Westward, and in Wales, etc.
+[.chapter-synopsis]
+* Her visit to the meetings of Friends Westward, and in Wales, etc.
 
 On the 17th of third month, 1763,
 it having been my concern for some time to visit the meetings of Friends Westward,
@@ -30,6 +31,10 @@ We returned to Bristol on the 22nd, where I remained until the Yearly Meeting,
 at which we had the company of John Hunt from London, and Isaac Sharpies from Hitchin,
 who were engaged to labour and travail, and to speak to the states of the people.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Bristol, Fourth month 30th, 1763.
 
 Though I am far from being lifted up,
@@ -50,6 +55,8 @@ and many die suddenly--how happy are all those who have made their peace with Go
 I think I may say, I know that peace, and beg that I may be preserved to the end;
 being assured,
 that all those who are '`faithful unto death,`' shall receive '`a crown of life.`'
+
+--
 
 I was enabled to leave Bristol with a degree of satisfaction, on the 16th of fifth month,
 accompanied by William Bragg and William Bush:--Robert
