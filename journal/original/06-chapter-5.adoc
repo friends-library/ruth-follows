@@ -25,6 +25,7 @@ We then went to Bromley, and lodged at Robert Forster`'s;
 thence to Chelmsford to John Griffith`'s,
 who was then very ill but recovered shortly after, and I believe went to America.
 
+[.offset]
 +++[+++The following letters appear to have been penned about this period:]
 
 [.embedded-content-document.letter]
@@ -144,6 +145,7 @@ I leave this as a caution to such as may see these lines;
 desiring that none may slight advice which is intended for good,
 although it may seem to be given sharply.
 
+[.offset]
 +++[+++From the following letter it appears she was on a visit at Norwich:]
 
 [.embedded-content-document.letter]
@@ -228,6 +230,9 @@ and then left for Bury and Godmanchester; and on the 24th to Northampton,
 at their Quarterly and Yearly Meetings; thence to Drayton and Oadby,
 and on the 29th at Wigston, where my husband met me,
 and we got safe home the 1st of seventh month.
+
+[.small-break]
+'''
 
 +++[+++In 1772 she was from home,
 of which we have no other account but this letter written at East Markham to her husband:]
@@ -324,6 +329,7 @@ Some that had ears, did hear what the Spirit said.
 And as we were favoured with strength to discharge our duty,
 our souls were filled with sweet peace, which is the only reward we labour for.
 
+[.offset]
 +++[+++From Bradford she wrote to her husband:]
 
 [.embedded-content-document.letter]
@@ -516,6 +522,7 @@ In the ninth month at our Quarterly Meeting at Leicester,
 where was Sarah Gurney from Norwich, who had a good opportunity,
 and a very satisfactory meeting it was.
 
+[.offset]
 +++[+++In this year she was again from home, as appears by the following letter:]
 
 [.embedded-content-document.letter]
