@@ -1,6 +1,7 @@
 == Chapter VIII
 
-Her visit to Bristol, Wellington, Exeter, etc.
+[.chapter-synopsis]
+* Her visit to Bristol, Wellington, Exeter, etc.
 
 On the 6th of ninth month, 1784, I had a few lines from our Monthly Meeting,
 having the weight of a journey upon me,
@@ -24,11 +25,16 @@ Hence we proceeded to Sidcot, and had a favoured opportunity; thence to Bridgewa
 Wellington, Uffcolme, and, on first-day, to the Monthly Meeting at Collumpton;
 in the evening got to Exeter.
 
+[.offset]
 +++[+++Here she wrote the following to her husband and children.]
 
-"`Exeter, Tenth month, 1784.
+[.embedded-content-document.letter]
+--
 
-"`I do not remember ever going out with so little sight;
+[.signed-section-context-open]
+Exeter, Tenth month, 1784.
+
+I do not remember ever going out with so little sight;
 nor can I express what I felt before I left home, but think my exercise was in part felt,
 and also seen by thee, my dear husband, and that thou, with myself,
 dost believe I moved at the right time.
@@ -59,7 +65,9 @@ Strong are my desires for you, as for my poor self,
 that a steady perseverance and preservation from all evil may be witnessed by us.
 You are all often in my thoughts,
 and in the best love I dearly salute thee my dear husband,
-with my children and children`'s children.`"
+with my children and children`'s children.
+
+--
 
 On second-day, reached Kingsbridge, a very long journey, which, I believe,
 would have been too hard for me, had not our dear friend Mary Ware, of Wellington,
@@ -94,8 +102,13 @@ I stayed more than a week in this place, and was for a time in so very dangerous
 that I was ready to conclude my time in this world was nearly over;
 but through Divine mercy I recovered.
 
+[.offset]
 +++[+++At this place she again wrote to her husband and children.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Wellington, 1st of Eleventh month, 1784.
 
 How thankful shall I be to hear of the welfare of
@@ -119,6 +132,8 @@ Oh! how doth my poor soul travail for you even as for myself,
 and I can thankfully say that the Lord hath been my helper hitherto,
 and believing I am in the way of my duty, I have the reward of peace.
 
+--
+
 Being again joined by my dear companion, who had a concern,
 and the approbation of her friends, to visit Bristol, we took leave of my kind friends,
 to whom I was nearly united.
@@ -141,8 +156,13 @@ Oh! saith my soul, that there may be more life and fewer words amongst us.
 The lively interest which she felt for the spiritual welfare of her son,
 is set forth in this parental appeal;
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Son.
 
+[.signed-section-context-open]
 Bristol, Twelfth month, 1784.
 
 I received thy welcome letter nearly two weeks ago, and was glad to see thy handwriting,
@@ -168,6 +188,8 @@ but as we step safely, we feel satisfied that we are where we ought to be.
 I beg for patience, remembering that the end will come when all our labours will cease,
 and the prospect of a happy conclusion is at times very comfortable,
 and by me rather desirable that it may soon be experienced.
+
+--
 
 On the 17th of first month, 1785, we left Bristol,
 having the blessed reward of pure peace for our labours.
@@ -218,11 +240,17 @@ even the Truth bearing me witness that I am in the way of my duty to my great Lo
 my spirits are borne up over all opposers and such as say hard things of me,
 and I have peace.
 
+[.offset]
 +++[+++In 1787, she writes from London to her children,
 showing the unabated affectionate concern for their everlasting welfare:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Children.
 
+[.signed-section-context-open]
 London, Sixth month, 1787.
 
 O my dear children, endeavour to keep near to that preserving Power,
@@ -237,6 +265,9 @@ and graciously owned by Him who is the crown and diadem of our assemblies:
 happy should we be if all kept to the proper standard,
 and never moved out of the pure order of the Gospel.
 
+--
+
+[.offset]
 +++[+++On the 26th of eighth month, 1788, she writes:]
 
 I left my home,
@@ -321,10 +352,16 @@ I being now in the seventy-sixth year of my age, and infirm.
 The succeeding two years I was engaged in attending many meetings near home,
 to satisfaction.
 
+[.offset]
 +++[+++In the year 1794, she writes to her family from Leeds:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband and Children.
 
+[.signed-section-context-open]
 Leeds, Ninth month, 1794.
 
 My absence from you has been longer than I had any sight of when I left you,
@@ -350,7 +387,9 @@ they are very frequent on your account.
 Oh! my dears, forget not to be watchful; you know how uncertain time is,
 and what a sad thing to be unprepared;
 may I not say our happiness consists in doing the will of God,
-and in living in obedience according to knowledge.`"
+and in living in obedience according to knowledge.
+
+--
 
 On the 8th of fifth month, 1795, attended the Yearly Meeting in London,
 where I was kindly received by my friends at my good old quarters, the widow Roe`'s,
@@ -369,11 +408,17 @@ even a portion of that peace which my soul now enjoys,
 peace with God and rest in him who hath dealt bountifully with me.
 Amen!
 
+[.offset]
 +++[+++In the eighty-sixth year of her age,
 she penned this short effusion of parental affection towards her grandchildren:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Grandchildren.
 
+[.signed-section-context-open]
 Donnington, Third month, 1804.
 
 Being likely to have a ready conveyance, I am set down as in the depth of poverty;
@@ -392,4 +437,7 @@ and into your Master`'s rest.`' Now, having thus written a little of my meaning,
 and the fervent desire of my heart, I conclude in that love which changeth not,
 and am your very aged, infirm, and much reduced grandmother,
 
+[.signed-section-signature]
 Ruth Follows.
+
+--

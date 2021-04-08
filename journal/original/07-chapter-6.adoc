@@ -1,6 +1,7 @@
 == Chapter VI
 
-Her visit to the Northern Counties and Scotland, in company with her friend Martha Winter.
+[.chapter-synopsis]
+* Her visit to the Northern Counties and Scotland, in company with her friend Martha Winter
 
 Having for some time had a concern to visit meetings in the northern counties and Scotland,
 and having the concurrence of my friends and a certificate for the purpose,
@@ -214,8 +215,13 @@ where my husband met me;
 we stayed over the forenoon meeting on first-day and reached our own home that evening,
 the 3rd of ninth month.
 
-+++[+++The following was written to her son: ]
+[.offset]
++++[+++The following was written to her son:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Donnington, Eleventh month, 1775.
 
 After long expectation we received thy acceptable letter,
@@ -247,6 +253,8 @@ and do thy own business;`' and wherein thou hast
 missed the right way let what is passed suffice,
 and do so no more.
 
+--
+
 During the remainder of this year and part of the following,
 I attended a number of meetings near home; and on the 11th of fifth month, 1776,
 although suffering under many infirmities, I left home,
@@ -268,8 +276,13 @@ At Colchester the meetings were attended by several public Friends,
 and much labour and deep travail was witnessed--sometimes the Truth was over all,
 and the Lord was magnified.
 
+[.offset]
 +++[+++From this place she wrote to her husband as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Colchester, Sixth month 8th, 1776.
 
 I gladly received thine and rejoiced at the account of thy good health,
@@ -306,6 +319,8 @@ On sixth-day, having seemingly taken a final farewell of this our dear friend,
 we got to this place last night, and were kindly received by our worthy friends,
 John Kendall and his wife.
 
+--
+
 From Colchester, accompanied by Sarah Stephenson and John Kendall, I went to Manningtree,
 where we had a very comfortable meeting; after which I was left alone;
 but my lodging being at that worthy, aged Friend, Mary Bandock`'s,
@@ -333,8 +348,13 @@ and after staying over first-day I took leave of my companion,
 she going towards her home, and I with my husband to ours,
 where we arrived safe with the reward of peace, the 16th of ninth month, 1776.
 
+[.offset]
 +++[+++The following letters were addressed to her son, viz:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Nottingham, Tenth month, 1776.
 
 We received thine and were glad to hear of thy continued health:
@@ -351,6 +371,7 @@ I would hope that a hint to remind thee will be rightly taken;
 for as our care for all our children is great, so are we desirous to do our duty,
 and not deprive them of any good, either spiritual or temporal.
 
+[.signed-section-context-open]
 Donnington, Second month 8th, 1777.
 
 We received thine dated tenth month, and glad were we to hear of thy good health; and,
@@ -382,7 +403,9 @@ Oh! our son, didst thou but feel our affectionate regard,
 and the many visits that our spirits pay thee,
 frequently flying as over the ocean to see what thou art about!--And be assured,
 here are many wish thee well,
-and would rejoice with us to see thee home in an agreeable condition of mind.`"
+and would rejoice with us to see thee home in an agreeable condition of mind.
+
+--
 
 +++[+++From the date before mentioned to the year 1782, a period of about six years,
 it does not appear that she travelled with a certificate,
@@ -390,8 +413,13 @@ but was much engaged in attending general and other meetings near her own home.
 
 In this time she wrote the following letters:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband.
 
+[.signed-section-context-open]
 London, Third month, 1777.
 
 I gladly received thy letter, and rejoiced to hear of thy welfare; and through mercy,
@@ -412,8 +440,10 @@ we may have to rejoice in the increase of God, and in the aboundings of his good
 have to praise his holy name, who indeed hath done great things for us;
 and that he may be by us ever counted worthy, is the sincere breathing of my soul.
 
+[.letter-heading]
 To A Relation.
 
+[.signed-section-context-open]
 Donnington, Eleventh month, 1778.
 
 Were we but nearer one to the other,
@@ -431,8 +461,15 @@ though far separated as to the outward.
 This is more desirable than the increase of corn, wine or oil,
 as with all outward blessings, the world cannot give peace to the soul.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Son Samuel.
 
+[.signed-section-context-open]
 Donnnigton, Eighth month 27th, 1779.
 
 Go on patiently--Is it not good for thee to feel thy own burden?
@@ -454,8 +491,15 @@ O that my dear children may all overcome the wicked one,
 that so I may salute you as young men, who are strong,
 having the word of God abiding in you.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Son.
 
+[.signed-section-context-open]
 Donnington, Tenth month 29th, 1779.
 
 We were glad to receive thine, and to find that a sense of good and a desire after it,
@@ -482,10 +526,17 @@ for which favour I beg to be truly thankful.
 But now I witness a stripping, and am reduced to much poverty of spirit,
 like an empty vessel set by for a season; and it is my care to be kept clean,
 in order that when my great Lord sees meet to make use of me, I may be in readiness,
-or if he be pleased to take me to himself, I may not be surprised.`"
+or if he be pleased to take me to himself, I may not be surprised.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Son +++_______+++
 
+[.signed-section-context-open]
 Shipston, First month, 1781.
 
 I have been kindly received in most places; for which favour I am often humbly thankful.
@@ -506,8 +557,15 @@ Did not the Lord hear thy cry, and grant thee thy petition;
 and now wilt thou not answer when he calls,
 and accept of that grace that would be sufficient?
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Children.
 
+[.signed-section-context-open]
 London, Fifth month, 1782.
 
 The hearing so good an account of the welfare of you all,
@@ -526,13 +584,20 @@ It hath been so with me in this journey; and by such great favours, yea,
 merciful kindnesses, have many bitter cups been sweetened.
 O, my dears, feel with me, and rejoice: learn also,
 to bear a part with me in my sufferings; that so we may go hand in hand,
-and now and then ascend to the holy mount, where we can sing the Lord`'s praise.`"
+and now and then ascend to the holy mount, where we can sing the Lord`'s praise.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Same.
 
+[.signed-section-context-open]
 Norwich, Sixth month 22nd, 1782.
 
-"`Strong are my desires for you all, as for myself,
+Strong are my desires for you all, as for myself,
 that we may abide in the Truth and witness a growth therein,
 in order that a few living stones may be supporters of an holy building.
 O, my dears, look to it, and remember what station you are in.
@@ -558,4 +623,6 @@ he says if it be the Divine will to remove him, his peace will be much greater,
 having the favour of being reconciled to us,
 by the renewings of that love which we know to be of eternal duration.
 Oh! what a blessing to my dear offspring,
-that they are so visited and favoured with a true sense of the Divine will.`"
+that they are so visited and favoured with a true sense of the Divine will.
+
+--

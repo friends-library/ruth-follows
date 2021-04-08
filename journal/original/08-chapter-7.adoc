@@ -1,6 +1,7 @@
 == Chapter VII
 
-Her second visit to Ireland.
+[.chapter-synopsis]
+* Her second visit to Ireland
 
 In the seventh month, 1782, I requested a certificate for going into Ireland,
 which was granted; and had the company of Mary Ridgway and Jane Watson,
@@ -73,10 +74,16 @@ we went with him to his daughter-in-law`'s, the worthy Deborah Christy,
 with whom he dwells; and were at their meeting at Moyallen, on fifth-day,
 much to our satisfaction.
 
+[.offset]
 +++[+++From Stranmore near Lisburn, she wrote to a friend as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To +++_______+++
 
+[.signed-section-context-open]
 Stranmore, near Lisburn, Ninth month 7th, 1782.
 
 We often have to lodge at very poor inns, yet being accompanied by two worthy Friends,
@@ -103,6 +110,8 @@ on whom his own image would be engraven, and holiness would be proclaimed to his
 Now, my friend, thou knowest my travail, labour and deep exercise is,
 that I may witness an increase of those things that belong to my peace,
 in which I rejoice more than in the increase of corn, wine and oil.
+
+--
 
 On first-day, the 8th of ninth month, were at Lurgan, at their men and women`'s meeting,
 which was very large, and measurably owned by the Divine presence.
@@ -148,10 +157,16 @@ came afterwards.
 It seems now an acceptable time,
 and we have had many remarkable opportunities amongst our friends here.
 
+[.offset]
 +++[+++From this city she addresses her husband and children with these lines.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband and Children.
 
+[.signed-section-context-open]
 Dublin, 1782.
 
 I salute you all in the love of the Gospel, in which I wish you health and salvation;
@@ -178,7 +193,9 @@ and that I send them an affectionate salutation in my heavenly Father`'s love,
 in which I wish they may be nearly united one unto another, and that grace, mercy,
 and peace may be multiplied.
 This is the desire of their well-wishing friend,
-and sympathizing companion with the true mourners in Zion.`"
+and sympathizing companion with the true mourners in Zion.
+
+--
 
 On the 12th of eleventh month we left Dublin, got to Wicklow that evening,
 and had a meeting on the 13th; at Ballahan the next day,
@@ -243,8 +260,13 @@ who alone can and doth sweeten every bitter cup, that he sees meet to hand for o
 and we had to believe, that this great trial would be of use to many of those concerned,
 if entire resignation be experienced.
 
+[.offset]
 +++[+++Here she again addresses her beloved husband and children.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Waterford, First month 2nd, 1783.
 
 Perhaps we may leave here next week.--How long we
@@ -277,7 +299,9 @@ and hath been delivered unto us, whereby they did, and we may, obtain the victor
 Well, I am glad that in my thus moving along, I feel you near, as indeed I often do;
 and now can I salute you all in a degree of that love which changeth not,
 and I still remain a faithful wife to my dear husband,
-and an affectionate mother to all my dear children.`"
+and an affectionate mother to all my dear children.
+
+--
 
 We stayed over first-day, and on second-day went to Waterford,
 in which city we had much exercise,
@@ -290,10 +314,16 @@ A very humbling dispensation it was to us; yet were we so united to many of our 
 and felt such an increase of pure love towards them, that our parting was with tears,
 sweetened, however, with that peace which the world can neither give nor take away.
 
+[.offset]
 +++[+++The following appears to have been written about this time.]
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To Her Husband and Children.
 
+[.signed-section-context-open]
 Clonmel, Third month, 1783.
 
 I can now inform you of my recovery, not having much relapsed since I wrote before,
@@ -311,6 +341,8 @@ full of love, and abundant in good fruits;
 knowing the old man with all his corrupt deeds to be put off,
 and being clothed with the new man Christ Jesus,
 whose fruits are unto holiness and the end everlasting life.
+
+--
 
 On second-day, the 26th, we came to Clonmel,
 and were very kindly received by our friends Samuel and Margaret Grubb:
@@ -332,8 +364,13 @@ then to Mountmellick, and were well satisfied with staying meeting there,
 and had the company of John Ridgway before we left.
 We were at meeting at Ballitore on first-day.
 
+[.offset]
 +++[+++At Ballitore she writes to her family, as follows:]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Ballitore, Fourth month 26th, 1783.
 
 I have hitherto been helped with best help,
@@ -367,6 +404,8 @@ and change the very nature of the lion into that of the lamb;
 and how pleasant is our dwelling, when upon God`'s holy mountain,
 where nothing can hurt or destroy.
 
+--
+
 On third-day had a meeting at Baltiboys.
 
 We reached Dublin, and were at the Quarterly Meeting for the province,
@@ -395,8 +434,13 @@ in all of which we were favoured with best help, and the conclusion was satisfac
 We took a solemn leave of many,
 and had some opportunities to edification and comfort with our beloved friends.
 
+[.offset]
 +++[+++On the 26th she arrived in Dublin, where she wrote to her son.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Dublin, Fifth month, 1783.
 
 I was glad of thy letter,
@@ -408,6 +452,8 @@ and all the reprobate silver removed, and we be as pure gold, not only in lustre
 but having the full weight; then we shall not only be of the called,
 but the chosen of God, serviceable in his church, as firm stakes in our Zion,
 useful vessels in the Lord`'s house; and our conduct will proclaim holiness to his name.
+
+--
 
 The next day several of our friends came, and we were favoured together,
 and parted in that true love and holy fellowship that will never end.
@@ -432,8 +478,13 @@ humbly thankful unto the God and Father of all our mercies,
 who is ever worthy of thanksgiving and praise.
 Amen.
 
+[.offset]
 +++[+++About this period we have this remembrance of her beloved family.]
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Sheffield, Eighth month, 1784.
 
 I can truly salute you in a degree of our heavenly Father`'s love,
@@ -449,3 +500,5 @@ and sit as a sentinel not daring to move out of the right course.
 O, my dears, think of me, for I am sorely buffeted and in a continued warfare; and yet,
 at times, am favoured with an unshaken hope of obtaining the victory over death, hell,
 and the grave.
+
+--
